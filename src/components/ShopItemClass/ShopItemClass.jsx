@@ -1,3 +1,5 @@
+import React, { Component } from 'react';
+
 export class ShopItemClass extends Component {
   render() {
     return (
